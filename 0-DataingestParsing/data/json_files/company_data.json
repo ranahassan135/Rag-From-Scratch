@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ProBook Laptop",
+      "category": "Electronics",
+      "price": 1200,
+      "stock": 15,
+      "description": "High-performance laptop with 16GB RAM and 512GB SSD.",
+      "specifications": {
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "512GB SSD"
+      },
+      "tags": [
+        "laptop",
+        "computer",
+        "electronics"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 35,
+      "stock": 50,
+      "description": "Ergonomic wireless mouse designed for everyday productivity.",
+      "specifications": {
+        "connection": "Bluetooth",
+        "battery": "AA Battery",
+        "range": "10 meters"
+      },
+      "tags": [
+        "mouse",
+        "wireless",
+        "accessories"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 90,
+      "stock": 25,
+      "description": "Mechanical keyboard with RGB lighting and tactile switches.",
+      "specifications": {
+        "connection": "USB-C",
+        "switch_type": "Mechanical",
+        "layout": "Full Size"
+      },
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "gaming"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "27 Inch Monitor",
+      "category": "Electronics",
+      "price": 350,
+      "stock": 10,
+      "description": "27-inch high-resolution monitor suitable for development and design.",
+      "specifications": {
+        "resolution": "2560x1440",
+        "refresh_rate": "144Hz",
+        "panel": "IPS"
+      },
+      "tags": [
+        "monitor",
+        "display",
+        "electronics"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Noise Cancelling Headphones",
+      "category": "Audio",
+      "price": 180,
+      "stock": 20,
+      "description": "Wireless headphones with active noise cancellation and high-quality audio.",
+      "specifications": {
+        "connection": "Bluetooth 5.3",
+        "battery_life": "30 hours",
+        "noise_cancellation": "true"
+      },
+      "tags": [
+        "headphones",
+        "audio",
+        "wireless"
+      ]
+    }
+  ]
+}
